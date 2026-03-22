@@ -1,10 +1,12 @@
-{
-  "nome": "MamAna",
-  "vendas": 1200,
-  "região": "Norte"
-},
-{
-  "nome": "Rui",
-  "vendas": 980,
-  "região": "Sul"
-}
+[
+  {
+    "nome": "MamAna",
+    "vendas": 1200,
+    "região": "Norte"
+  },
+  {
+    "nome": "Rui",
+    "vendas": 980,
+    "região": "Sul"
+  }
+]
